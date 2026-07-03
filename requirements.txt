@@ -1,0 +1,9 @@
+playwright
+fastapi
+uvicorn[standard]
+scikit-learn
+joblib
+pydantic
+sentence-transformers
+chromadb
+networkx
